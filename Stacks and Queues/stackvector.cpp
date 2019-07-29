@@ -37,4 +37,5 @@ int main(){
 		cout<<s.top()<<endl;
 		s.pop();
 	}
+	return 0;
 }
